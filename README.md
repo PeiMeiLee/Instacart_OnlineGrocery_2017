@@ -18,6 +18,7 @@ For this project, the following Python libraries were used:
 * Numpy
 * Seaborn
 * Matplotlib
+* Scipy
 
 For fixing errors in my scripts and optimizing my visualizations, I sought assistance from ChatGPT. 
 

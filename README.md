@@ -40,3 +40,15 @@ For this project, the following Python libraries were used:
 - Using Anaconda libraries manager & Jupyter Notebooks
 - Creating a population flowchart
 - Creating repositories on GitHub
+
+![INSTA2](https://github.com/PeiMeiLee/portfolio/blob/main/assets/INSTA/%E2%80%8EINSTA.%E2%80%8E002.jpeg)
+![INSTA3](https://github.com/PeiMeiLee/portfolio/blob/main/assets/INSTA/%E2%80%8EINSTA.%E2%80%8E003.jpeg)
+
+## Project Deliverables
+Here's the [final report](https://github.com/PeiMeiLee/portfolio/blob/main/assets/INSTA/A4_final_report_Lee.xlsx).
+-  Population flow
+-  Data consistency checks
+-  Data wrangling steps
+-  Column derivations
+-  Data visulizations
+-  Recommendation for next steps 

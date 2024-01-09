@@ -41,6 +41,7 @@ For this project, the following Python libraries were used:
 - Creating a population flowchart
 - Creating repositories on GitHub
 
+## Answering Business Questions
 ![INSTA2](https://github.com/PeiMeiLee/portfolio/blob/main/assets/INSTA/%E2%80%8EINSTA.%E2%80%8E002.jpeg)
 ![INSTA3](https://github.com/PeiMeiLee/portfolio/blob/main/assets/INSTA/%E2%80%8EINSTA.%E2%80%8E003.jpeg)
 

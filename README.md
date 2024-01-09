@@ -1,5 +1,7 @@
 # Instacart_OnlineGrocery_2017
-This project was created as a part of my studies in the Data Analytics Bootcamp at [CareerFoundry](https://careerfoundry.com) in 2023.
+![Photo by No Revisions on Unsplash](portfolio/assets/img/no-revisions-ixS7UCRJTdM-unsplash.jpg)
+Photo by [No  Revisions](https://unsplash.com/photos/great-value-green-beans-can-ixS7UCRJTdM?utm_content=creditShareLink&utm_medium=referral&utm_source=unsplash) on Unsplash
+
 ## Project Intro
 Instacart is an online grocery store that operates through an app. It already has good sales, but the management wants to uncover more information about their sales patterns. My task is to perform an initial data and exploratory analysis of some of their data in order to derive insights and suggest strategies for better segmentation based on the provided criteria.
 ###### Note: The project intro is excerpted from the project brief document provided by the program.
